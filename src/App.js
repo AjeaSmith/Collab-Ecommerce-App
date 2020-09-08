@@ -15,8 +15,8 @@ function App() {
 					href='https://reactjs.org'
 					target='_blank'
 					rel='noopener noreferrer'>
-					Hey Ajea!
-					This is gonna be sweet!
+					Yo Jay!
+					This is gonna be sweet and awesome!!!
 				</a>
 			</header>
 		</div>
