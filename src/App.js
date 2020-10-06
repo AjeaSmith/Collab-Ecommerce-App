@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 // Routes
+import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Accessories from './components/Accessories';
 import Apparel from './components/Apparel';
@@ -11,6 +12,7 @@ import PageNotFound from './components/PageNotFound';
 function App() {
 	return (
 		<BrowserRouter>
+			<Navbar />
 			<div className='App'>
 				<h1 className='font-serif text-center text-red-600'>Hey Team, Hi5!</h1>
 				<Switch>

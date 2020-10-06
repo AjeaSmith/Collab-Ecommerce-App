@@ -1,5 +1,8 @@
-@import "tailwindcss/base";
+/* Permanent Marker */
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Sansita+Swashed:wght@300;400;500;600;700;800;900&display=swap');
 
-@import "tailwindcss/components";
-
-@import "tailwindcss/utilities";
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
